@@ -1,1 +1,1 @@
-# hpux-ansible-modules
+# ansible-hpux-modules
